@@ -19,6 +19,7 @@
 -->
 ## Upcoming Release
 * Fixed the pagination bug in Get-AzRecoveryServicesAsrProtectableItem for the V2ARCM scenario.
+* Fixed IncludeDiskId property for New-ASRReplicationProtectedItem cmdlet of H2A
 * Upgraded AutoMapper to Microsoft.Azure.PowerShell.AutoMapper with fix [#18721]
 
 ## Version 6.1.0
